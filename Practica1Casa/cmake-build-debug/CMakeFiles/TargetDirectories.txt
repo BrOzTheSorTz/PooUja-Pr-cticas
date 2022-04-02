@@ -1,0 +1,3 @@
+C:/Users/soria/CLionProjects/Practica1Casa/cmake-build-debug/CMakeFiles/Practica1Casa.dir
+C:/Users/soria/CLionProjects/Practica1Casa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/soria/CLionProjects/Practica1Casa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
