@@ -1,0 +1,3 @@
+C:/Users/admin/Desktop/Practica3Clase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/Desktop/Practica3Clase/cmake-build-debug/CMakeFiles/Practica3Casa.dir
+C:/Users/admin/Desktop/Practica3Clase/cmake-build-debug/CMakeFiles/edit_cache.dir
