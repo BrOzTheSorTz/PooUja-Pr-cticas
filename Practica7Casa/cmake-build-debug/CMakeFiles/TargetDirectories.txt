@@ -1,0 +1,3 @@
+C:/Users/soria/CLionProjects/P_7_Material/cmake-build-debug/CMakeFiles/a.exe.dir
+C:/Users/soria/CLionProjects/P_7_Material/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/soria/CLionProjects/P_7_Material/cmake-build-debug/CMakeFiles/rebuild_cache.dir

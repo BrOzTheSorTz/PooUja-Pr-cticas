@@ -1,0 +1,4 @@
+C:\Users\soria\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.75\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/soria/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.75/bin/ninja/win/ninja.exe -G Ninja C:\Users\soria\CLionProjects\P_7_Material
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/soria/CLionProjects/P_7_Material/cmake-build-debug
