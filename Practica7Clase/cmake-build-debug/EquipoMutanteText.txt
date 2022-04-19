@@ -1,0 +1,4 @@
+Equipo A;Jaen.Miembros: 
+-paquito
+-Pablito
+-Marc

@@ -1,0 +1,3 @@
+C:/Users/admin/Desktop/Practica7Casa/cmake-build-debug/CMakeFiles/a.exe.dir
+C:/Users/admin/Desktop/Practica7Casa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/Practica7Casa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
