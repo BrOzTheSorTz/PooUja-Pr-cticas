@@ -1,0 +1,11 @@
+@startuml
+class Mutante {}
+
+
+class MutanteAstral{
+    -usado =false
+    +virtual addPoderPsiquico()
+}
+
+Mutante <|-- MutanteAstral
+@enduml
